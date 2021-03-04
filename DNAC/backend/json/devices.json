@@ -1,0 +1,34 @@
+[
+  {
+    "reachabilityStatus": "Reachable",
+    "macAddress": "00:c8:8b:80:bb:00",
+    "hostname": "asr1001-x.abc.inc",
+    "id": "6aad2ec7-d1d0-4605-bf32-f62266c5f53e",
+    "managementIpAddress": "10.10.22.253",
+    "upTime": "15 days, 8:21:13.38"
+  },
+  {
+    "reachabilityStatus": "Reachable",
+    "macAddress": "f8:7b:20:67:62:80",
+    "hostname": "cat_9k_1",
+    "id": "183ed3e6-3472-405c-a1ce-26d07987a140",
+    "managementIpAddress": "10.10.22.66",
+    "upTime": "69 days, 12:17:03.09"
+  },
+  {
+    "reachabilityStatus": "Reachable",
+    "macAddress": "f8:7b:20:71:4d:80",
+    "hostname": "cat_9k_2",
+    "id": "bf5ac35b-f1bc-4e15-8512-2ae22f507608",
+    "managementIpAddress": "10.10.22.70",
+    "upTime": "198 days, 21:53:22.20"
+  },
+  {
+    "reachabilityStatus": "Reachable",
+    "macAddress": "cc:d8:c1:15:d2:80",
+    "hostname": "cs3850.abc.inc",
+    "id": "5d6dd65b-eb43-4e28-bd31-e6b0730b2ac5",
+    "managementIpAddress": "10.10.22.73",
+    "upTime": "15 days, 8:27:03.88"
+  }
+]
